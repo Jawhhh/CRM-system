@@ -1,0 +1,2 @@
+DELETE FROM deals;
+DELETE FROM clients;
